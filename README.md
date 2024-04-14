@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Visualisation des taux de suicide à l'échelle mondiale</title>
+
 </head>
 <body>
   <h1>Visualisation des taux de suicide à l'échelle mondiale</h1>
